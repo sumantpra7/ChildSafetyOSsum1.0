@@ -4,6 +4,10 @@
 
 ChildSafetyOS (codename **SafeBrowse**) is an **OS-level parental control and child safety platform** designed to protect children from harmful online content **in real time**, without spying, cloud uploads, or easy bypasses. Built during **Ranchi Hacks 2026** by **Team BYTE US**, this project focuses on **privacy-first, on-device AI** combined with deep system-level protection.
 
+
+
+
+dash board --> https://childsafetyos.web.app
 ---
 
 ## 🚨 The Problem
